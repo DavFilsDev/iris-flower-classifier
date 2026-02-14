@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name="iris-classifier",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Fanampinirina Miharisoa David Fils RATIANDRAIBE",
+    author_email="miharisoadavidfils@gmail.com",
     description="Iris flower classification using machine learning",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/iris-flower-classifier",
+    url="https://github.com/DavFilsDev/iris-flower-classifier",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
