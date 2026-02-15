@@ -5,10 +5,10 @@ A beginner-friendly machine learning project to classify iris flowers into three
 ## 🎯 Project Functionalities Checklist
 
 ### Phase 1: Project Setup & Environment
-- [*] Initialize project structure
-- [ ] Set up virtual environment
-- [ ] Create requirements.txt
-- [ ] Configure git repository
+- [x] Initialize project structure
+- [x] Set up virtual environment
+- [x] Create requirements.txt
+- [x] Configure git repository
 
 ### Phase 2: Data Exploration
 - [ ] Load Iris dataset
