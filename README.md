@@ -11,7 +11,7 @@ A beginner-friendly machine learning project to classify iris flowers into three
 - [x] Configure git repository
 
 ### Phase 2: Data Exploration
-- [ ] Load Iris dataset
+- [x] Load Iris dataset
 - [ ] Understand data structure and features
 - [ ] Check for missing values
 - [ ] Generate basic statistics
