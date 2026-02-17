@@ -1,0 +1,37 @@
+============================================================
+IRIS DATASET - COMPLETE SUMMARY REPORT
+============================================================
+
+1. DATASET OVERVIEW
+   - Total samples: 150
+   - Number of features: 4
+   - Feature names: sepal length (cm), sepal width (cm), petal length (cm), petal width (cm)
+   - Number of classes: 3
+   - Class names: setosa, versicolor, virginica
+
+2. CLASS DISTRIBUTION
+   - setosa: 50 samples (33.3%)
+   - versicolor: 50 samples (33.3%)
+   - virginica: 50 samples (33.3%)
+
+3. DATA QUALITY
+   - Missing values: 0
+   - Duplicate rows: 1
+   - Data types: All numerical features are float64
+
+4. FEATURE STATISTICS (min - max)
+   - sepal length (cm): 4.30 - 7.90 cm
+   - sepal width (cm): 2.00 - 4.40 cm
+   - petal length (cm): 1.00 - 6.90 cm
+   - petal width (cm): 0.10 - 2.50 cm
+
+5. KEY INSIGHTS
+   ✓ Dataset is perfectly balanced (50 samples per class)
+   ✓ No missing values - data is clean and ready for ML
+   ✓ Features are on different scales:
+      - Sepal measurements: ~4-8 cm
+      - Petal measurements: ~1-7 cm
+   ✓ Petal measurements show more variation than sepal measurements
+   ✓ This suggests petal features might be better for classification
+
+============================================================
