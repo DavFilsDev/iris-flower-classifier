@@ -12,10 +12,10 @@ A beginner-friendly machine learning project to classify iris flowers into three
 
 ### Phase 2: Data Exploration
 - [x] Load Iris dataset
-- [ ] Understand data structure and features
-- [ ] Check for missing values
-- [ ] Generate basic statistics
-- [ ] Create data summary report
+- [x] Understand data structure and features
+- [x] Check for missing values
+- [x] Generate basic statistics
+- [x] Create data summary report
 
 ### Phase 3: Data Visualization
 - [ ] Create scatter plots for feature relationships
